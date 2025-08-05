@@ -1,8 +1,7 @@
  Hi there 👋
-<!--
-**solange-rodrigues/Solange-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+solange-rodrigues/Solange-Rodrigues is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🎓 Estudante de **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** na **Cruzeiro do Sul Virtual**
+- 🎓 Estudante de Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual
 - 🔭 I’m currently working on : No momento, estou focada em aprender fundamentos de programação e desenvolvimento web através dos projetos e atividades da faculdade.
 - 🌱 I’m currently learning : HTML | CSS | Java | Git & GitHub
 - 👯 I’m looking to collaborate on : Estou aberta a oportunidades para aprender mais sobre desenvolvimento de software.
