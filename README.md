@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : HTML | CSS | Java | Git & GitHub
 - 👯 I’m looking to collaborate on : Estou aberta a oportunidades para aprender mais sobre desenvolvimento de software.
 - 💬 Ask me about : No momento, estou no início da minha jornada e aberta a aprender sobre qualquer área de desenvolvimento de software.
-- 📫 How to reach me: https://www.linkedin.com/in/solange-rodrigues-7b1021378/
-- 😄 Pronouns:Ela/Dela
+- 📫Linkedln: https://www.linkedin.com/in/solange-rodrigues-7b1021378/
+- GitHub: https://github.com/solange-rodrigues
 - ⚡ Fun fact: Sou apaixonada por tecnologia e adoro ouvir música enquanto estudo programação!
 -->
